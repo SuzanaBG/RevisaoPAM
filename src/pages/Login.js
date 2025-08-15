@@ -223,10 +223,10 @@ const styles = StyleSheet.create({
     },
 
     linha: {
-        borderBottomColor: '#555555', // cor da linha
-        borderBottomWidth: 1,      // espessura
-        width: '30%',             // largura
-        marginVertical: 10,        // espaço em cima/baixo
+        borderBottomColor: '#555555', 
+        borderBottomWidth: 1,     
+        width: '30%',           
+        marginVertical: 10,        
     },
 
     text5: {
